@@ -1,0 +1,20 @@
+h1
+{
+    text-align: center;
+}
+.log
+{
+    position: relative;
+    margin-left: 33%;
+    background-color: cadetblue;
+    width: fit-content;
+}
+body
+{
+    background-color: aqua;
+}
+input
+{
+    height: 30px;
+    width: 500px;
+}

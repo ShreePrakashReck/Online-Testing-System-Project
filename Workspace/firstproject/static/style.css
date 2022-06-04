@@ -1,0 +1,33 @@
+
+h1
+{
+    text-align: center;
+    
+}
+.div
+{
+    width: 800px;
+    margin-left: 35%;
+    background-color: cadetblue ;
+    max-width: fit-content;
+    text-align: center;
+}
+h3
+{
+    
+    text-align: center;
+    color: red;
+   
+
+}
+body
+{
+    background-color: rgb(22, 196, 141);
+}
+input
+{   
+    height: 30px;
+    width: 500px;
+    color: rgb(230, 29, 29);
+    
+}
